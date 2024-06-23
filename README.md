@@ -8,7 +8,7 @@ Este proyecto permite crear múltiples Pacmen y hacer que se muevan por la panta
 
 - `index.html`: El archivo HTML principal que incluye los botones para agregar y comenzar la animación de los Pacmen.
 - `pacmen.js`: El archivo JavaScript que contiene la lógica para crear y mover los Pacmen.
-- `PacMan1.png`, `PacMan2.png`, `PacMan3.png`, `PacMan4.png`: Imágenes de los Pacmen utilizadas en la animación.
+- `PacMan1.png`, `PacMan2.png`, `PacMan3.png`, `PacMan4.png`: Imágenes de los Pacmen utilizadas en la animación, se encuentran en la carpeta images.
 
 ### Instrucciones
 
@@ -20,6 +20,13 @@ Este proyecto permite crear múltiples Pacmen y hacer que se muevan por la panta
 
 3. **Iniciar la Animación**:
    - Haz clic en el botón "Start Game" para comenzar a mover los Pacmen en la pantalla. Los Pacmen cambiarán de dirección al llegar a los bordes de la ventana.
+
+## Roadmap de Futuras Mejoras
+
+En futuras mejoras, se podrian agregar las siguientes mejoras:
+- Agregar colisiones entre los Pacmen.
+- Poder regular la velocidad para los Pacmen.
+- Mejorar la interfaz de usuario para que sea mas del agrado de los usuarios.
 
 ## Licencia
 
